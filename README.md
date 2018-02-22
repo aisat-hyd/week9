@@ -13,14 +13,14 @@ Defined Syallabus:
 
 What we would cover this week?
 
-1. Deep Learning Architectures
+1. TBD
 2. TBD
 
 -------------------------
 
 Speakers:
 
-1. Srinand Yashaswi (Deep Learning Architectures)
+1. TBD
 2. TBD
 
 ------------------------------------
