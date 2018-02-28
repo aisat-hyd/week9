@@ -1,6 +1,6 @@
 # week9
 
-Preparation for week 9 of AI Saturday Hyderabad(24/2/2018)
+Preparation for week 9 of AI Saturday Hyderabad(3/3/2018)
 
 Defined Syallabus:
 
