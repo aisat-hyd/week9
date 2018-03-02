@@ -13,15 +13,15 @@ Defined Syallabus:
 
 What we would cover this week?
 
-1. TBD
-2. TBD
+1. Yashaswi
+
 
 -------------------------
 
 Speakers:
 
-1. TBD
-2. TBD
+1. Deep Learning Architecture
+
 
 ------------------------------------
 
